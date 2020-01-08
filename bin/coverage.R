@@ -1,4 +1,6 @@
 #!/usr/bin/env Rscript
+# Version: 1.0.0
+# Author: Etienne JEAN
 library(docopt)
 'Usage:
     coverage.R -f=FILE -r=FILE -o=FILE [options]

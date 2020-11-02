@@ -1,4 +1,6 @@
 #!/usr/bin/env Rscript
+# Author: Etienne JEAN
+# Version: 1.0.1
 library(docopt)
 "Usage:
     merge_summarise.R -o=FILE FILE...

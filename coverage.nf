@@ -1,6 +1,5 @@
-#!/usr/bin/env nextflow
-// Version: 1.0.0
 // Author: Etienne JEAN
+// Version: 1.0.1
 
 //////////// PARAMETERS ////////////
 // Help display
